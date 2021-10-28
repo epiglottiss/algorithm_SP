@@ -2,7 +2,7 @@
 # 2. Dijkstra 알고리즘 구현 (Dijkstra.cpp)
 
 ## 입력1
-![Graph1](https://user-images.githubusercontent.com/63270925/139265238-20278e68-27fd-48b3-8bf7-567e79a9b16d.png)
+![image](https://user-images.githubusercontent.com/63270925/139265873-1f376366-11cc-45b7-8e7e-aa7ff6f04eae.png)
 
 ## 출력
 A to B : 7
